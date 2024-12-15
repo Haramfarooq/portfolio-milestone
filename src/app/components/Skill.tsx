@@ -4,7 +4,6 @@ import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { SiTypescript } from "react-icons/si";
 import { SiNextdotjs } from "react-icons/si";
-import { FaBootstrap } from "react-icons/fa";
 export default function Skill(){
     return(
                 <div className=" bg-gray-600 min-h-screen flex flex-col items-center justify-center">
